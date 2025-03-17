@@ -1,0 +1,4 @@
+Today, I continued learning Asynchronous JavaScript, focusing on how to handle errors and improve the reliability of async operations.
+
+I started by learning how to handle rejected promises using .catch(), which helps manage errors when a promise fails. I also explored how to throw errors manually, allowing better control over error messages. I learned the event loop to understand how JavaScript processes asynchronous tasks efficiently. After that, I learned how to build simple promises from scratch, which gave me a deeper understanding of how promises work behind the scenes.
+Next, I explored error handling with try...catch, which provides a structured way to catch and manage errors in async functions. I also learned how to run multiple promises in parallel using Promise.all(), which makes code execution faster when dealing with multiple asynchronous tasks.
